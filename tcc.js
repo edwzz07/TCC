@@ -1,0 +1,1 @@
+setTimeout ( () => {alert ("seja bem vindo (a) ao nosso site")}, 500);
